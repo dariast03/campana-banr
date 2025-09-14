@@ -79,8 +79,7 @@ export const metadata: Metadata = {
 
 export default async function Page() {
   return (
-    <div>
-      <HeaderHome />
+    <>
       <HeroHome />
       <InfoSection cards={infoCards} />
       <ContributionSection />
@@ -92,6 +91,6 @@ export default async function Page() {
       <AboutSection />
       <SponsorsSection />
       <FooterHome />
-    </div>
+    </>
   );
 }
