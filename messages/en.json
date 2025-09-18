@@ -1,0 +1,13 @@
+{
+    "HomePage": {
+        "title": "Hello worldzas!"
+    },
+    "Navbar": {
+        "home": "Home",
+        "resources": "Resources",
+        "about": "About",
+        "register": "Register",
+        "donate": "Donate",
+        "language": "Language"
+    }
+}
