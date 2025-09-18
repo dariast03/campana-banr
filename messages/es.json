@@ -1,0 +1,13 @@
+{
+    "HomePage": {
+        "title": "¡Hola mundo!"
+    },
+    "Navbar": {
+        "home": "Inicio",
+        "resources": "Recursos",
+        "about": "Sobre",
+        "register": "Registro",
+        "donate": "Donar",
+        "language": "Idioma"
+    }
+}
