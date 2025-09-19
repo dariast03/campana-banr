@@ -89,7 +89,6 @@ export default async function Page() {
       <RegistrationFormSection />
       <AboutSection />
       <SponsorsSection />
-      <FooterHome />
     </>
   );
 }

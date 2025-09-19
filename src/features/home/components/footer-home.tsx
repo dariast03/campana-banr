@@ -11,7 +11,7 @@ export function FooterHome() {
           {/* Logo Section */}
           <div className='flex items-center justify-center md:justify-start'>
             <img
-              src='assets/logos/logo.svg'
+              src='/assets/logos/logo.svg'
               alt='Logo'
               className='h-56 w-56 object-contain md:h-72 md:w-72'
             />
