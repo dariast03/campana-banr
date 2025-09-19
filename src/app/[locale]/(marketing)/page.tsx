@@ -1,5 +1,4 @@
 import {
-  HeaderHome,
   HeroHome,
   InfoSection,
   ContributionSection,
