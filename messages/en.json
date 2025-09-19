@@ -54,5 +54,40 @@
             }
         },
         "speciesName": "Blue-throated macaw"
+    },
+    "RegistroPage": {
+        "title": "Registration",
+        "scannerSection": {
+            "title": "Scan your Form here",
+            "description": "Confirm your data here",
+            "uploadText": "Upload an image of your form or take a photo",
+            "dragDrop": "Drag and drop your image here, or",
+            "clickUpload": "click to upload",
+            "takePhoto": "Take Photo",
+            "uploadImage": "Upload Image",
+            "processing": "Processing...",
+            "scanning": "Scanning text...",
+            "extractingData": "Extracting form data..."
+        },
+        "form": {
+            "name": "Name",
+            "email": "Email",
+            "nationality": "Nationality",
+            "age": "Age",
+            "date": "Date",
+            "submit": "Submit",
+            "reset": "Clear"
+        },
+        "success": {
+            "title": "Form processed successfully!",
+            "message": "The data has been extracted and processed correctly.",
+            "processAnother": "Process another form",
+            "viewData": "View extracted data"
+        },
+        "error": {
+            "title": "Processing error",
+            "message": "Could not process the image. Please try again.",
+            "retry": "Retry"
+        }
     }
 }
