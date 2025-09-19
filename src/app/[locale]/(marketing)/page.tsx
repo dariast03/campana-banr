@@ -7,11 +7,11 @@ import {
   VideosSection,
   ReportsSection,
   RegistrationFormSection,
-  AboutSection,
-  SponsorsSection,
   FooterHome,
   infoCards
 } from '@/features/home';
+import AboutSection from '@/features/home/components/about-section';
+import SponsorsSection from '@/features/home/components/sponsors-section';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -89,7 +89,6 @@ export default async function Page() {
       <RegistrationFormSection />
       <AboutSection />
       <SponsorsSection />
-      <FooterHome />
     </>
   );
 }
