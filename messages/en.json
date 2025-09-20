@@ -1,0 +1,93 @@
+{
+    "HomePage": {
+        "title": "Hello worldzas!"
+    },
+    "Navbar": {
+        "home": "Home",
+        "resources": "Resources",
+        "about": "About",
+        "register": "Register",
+        "donate": "Donate",
+        "language": "Language"
+    },
+    "ResourcesPage": {
+        "title": "RESOURCES",
+        "reserveVisit": {
+            "title": "Reserve",
+            "action": "Do it",
+            "description": "Visit the"
+        },
+        "reserveVisitComplete": "today!",
+        "habitatExplore": {
+            "title": "habitat",
+            "description": "Explore the"
+        },
+        "speciesTitle": "of this",
+        "speciesExtraordinary": "Extraordinary Species",
+        "buttonGallery": {
+            "title": "Explore the gallery and the magnificent videos you have to see...",
+            "cta": "View Gallery"
+        },
+        "buttonScanner": {
+            "title": "Scan your form here",
+            "cta": "Scan"
+        },
+        "gallerySection": {
+            "title": "Explore the Blue-throated macaw Gallery",
+            "imageAlt": "Blue-throated macaw image gallery"
+        },
+        "videoSection": {
+            "title": "Explore the Blue-throated macaw Videos",
+            "videoAlt": "Blue-throated macaw videos"
+        },
+        "reportsSection": {
+            "title": "Explore the Blue-throated macaw Reports",
+            "subtitle": "What we have prepared for you...",
+            "reportItem": {
+                "author": "Tjalle Boorsma",
+                "date": "02 sep 2025",
+                "format": "PDF",
+                "pages": "29 pages",
+                "description": "Become a Friend today! Your contribution transforms into secure habitat, active nests and life hope for this extraordinary species",
+                "viewPreview": "View preview",
+                "download": "Download"
+            }
+        },
+        "speciesName": "Blue-throated macaw"
+    },
+    "RegistroPage": {
+        "title": "Registration",
+        "scannerSection": {
+            "title": "Scan your Form here",
+            "description": "Confirm your data here",
+            "uploadText": "Upload an image of your form or take a photo",
+            "dragDrop": "Drag and drop your image here, or",
+            "clickUpload": "click to upload",
+            "takePhoto": "Take Photo",
+            "uploadImage": "Upload Image",
+            "processing": "Processing...",
+            "scanning": "Scanning text...",
+            "extractingData": "Extracting form data..."
+        },
+        "form": {
+            "name": "Name",
+            "email": "Email",
+            "nationality": "Nationality",
+            "age": "Age",
+            "date": "Date",
+            "submit": "Submit",
+            "reset": "Clear"
+        },
+        "success": {
+            "title": "Form processed successfully!",
+            "message": "The data has been extracted and processed correctly.",
+            "processAnother": "Process another form",
+            "viewData": "View extracted data"
+        },
+        "error": {
+            "title": "Processing error",
+            "message": "Could not process the image. Please try again.",
+            "retry": "Retry"
+        }
+    }
+}
