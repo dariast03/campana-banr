@@ -1,3 +1,4 @@
+import DatosCuriososSection from '@/features/datos-curiosos/DatosCuriososSection';
 import { SupportSection, type BenefitItem } from '@/features/support';
 
 const campaignBenefits: BenefitItem[] = [
@@ -23,6 +24,7 @@ export default function AboutPage() {
   return (
     <main className='min-h-screen'>
       <div className='container mx-auto px-10 py-10'>
+        <DatosCuriososSection />
         <SupportSection
           benefits={campaignBenefits}
           benefitsTitle='a la Paraba Barba Azul contribuyes a:'

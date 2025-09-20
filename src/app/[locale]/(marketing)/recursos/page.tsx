@@ -1,5 +1,6 @@
 'use client';
 
+import InformesSection from '@/features/informes/InformesSection';
 import {
   ImageGallery,
   VideoStack,
@@ -32,6 +33,12 @@ export default function RecursosPage() {
               <VideoStack />
             </div>
           </div>
+        </div>
+      </section>
+
+      <section className='px-4 py-16'>
+        <div className='mx-auto max-w-6xl'>
+          <InformesSection />
         </div>
       </section>
 
