@@ -80,13 +80,9 @@ export default async function Page() {
   return (
     <>
       <HeroHome />
-      <InfoSection cards={infoCards} />
-      <ContributionSection />
+
       <DonationSection />
-      <GallerySection />
-      <VideosSection />
-      <ReportsSection />
-      <RegistrationFormSection />
+
       <AboutSection />
       <SponsorsSection />
     </>
