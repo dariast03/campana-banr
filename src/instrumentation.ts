@@ -1,4 +1,4 @@
-import * as Sentry from '@sentry/nextjs';
+/* import * as Sentry from '@sentry/nextjs';
 
 const sentryOptions: Sentry.NodeOptions | Sentry.EdgeOptions = {
   // Sentry DSN
@@ -32,3 +32,4 @@ export async function register() {
 }
 
 export const onRequestError = Sentry.captureRequestError;
+ */
