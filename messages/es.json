@@ -1,0 +1,93 @@
+{
+    "HomePage": {
+        "title": "¡Hola mundo!"
+    },
+    "Navbar": {
+        "home": "Inicio",
+        "resources": "Recursos",
+        "about": "Sobre",
+        "register": "Registro",
+        "donate": "Donar",
+        "language": "Idioma"
+    },
+    "ResourcesPage": {
+        "title": "RECURSOS",
+        "reserveVisit": {
+            "title": "Reserva",
+            "action": "Hazlo",
+            "description": "¡Visitaste la"
+        },
+        "reserveVisitComplete": "hoy!",
+        "habitatExplore": {
+            "title": "hábitat",
+            "description": "Explora el"
+        },
+        "speciesTitle": "de esta",
+        "speciesExtraordinary": "Especie extraordinaria",
+        "buttonGallery": {
+            "title": "Explora la galería y los magníficos videos que tienes por ver...",
+            "cta": "Ver Galería"
+        },
+        "buttonScanner": {
+            "title": "Escanea tu formulario aquí",
+            "cta": "Escanear"
+        },
+        "gallerySection": {
+            "title": "Explora la galería de la Paraba Barba Azul",
+            "imageAlt": "Galería de imágenes de Paraba Barba Azul"
+        },
+        "videoSection": {
+            "title": "Explora los videos de la Paraba Barba Azul",
+            "videoAlt": "Videos de Paraba Barba Azul"
+        },
+        "reportsSection": {
+            "title": "Explora los Informes de la Paraba Barba Azul",
+            "subtitle": "Qué tenemos preparados para ti...",
+            "reportItem": {
+                "author": "Tjalle Boorsma",
+                "date": "02 sep 2025",
+                "format": "PDF",
+                "pages": "29 pág",
+                "description": "Conviértete en Amigo hoy! Tu aporte se transforma en hábitat seguro, nidos activos y esperanza de vida para esta especie extraordinaria",
+                "viewPreview": "Ver previa",
+                "download": "Descargar"
+            }
+        },
+        "speciesName": "Blue-throated macaw"
+    },
+    "RegistroPage": {
+        "title": "Registro",
+        "scannerSection": {
+            "title": "Escanea tu Formulario aquí",
+            "description": "Confirma tus datos aquí",
+            "uploadText": "Sube una imagen de tu formulario o toma una foto",
+            "dragDrop": "Arrastra y suelta tu imagen aquí, o",
+            "clickUpload": "haz clic para subir",
+            "takePhoto": "Tomar Foto",
+            "uploadImage": "Subir Imagen",
+            "processing": "Procesando...",
+            "scanning": "Escaneando texto...",
+            "extractingData": "Extrayendo datos del formulario..."
+        },
+        "form": {
+            "name": "Nombre",
+            "email": "Correo",
+            "nationality": "Nacionalidad",
+            "age": "Edad",
+            "date": "Fecha",
+            "submit": "Enviar",
+            "reset": "Limpiar"
+        },
+        "success": {
+            "title": "¡Formulario procesado exitosamente!",
+            "message": "Los datos han sido extraídos y procesados correctamente.",
+            "processAnother": "Procesar otro formulario",
+            "viewData": "Ver datos extraídos"
+        },
+        "error": {
+            "title": "Error al procesar",
+            "message": "No se pudo procesar la imagen. Inténtalo nuevamente.",
+            "retry": "Reintentar"
+        }
+    }
+}
