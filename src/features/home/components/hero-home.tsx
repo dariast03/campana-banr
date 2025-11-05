@@ -53,11 +53,11 @@ export const HeroHome: React.FC<HeroHomeProps> = () => {
           <div className='order-1 lg:order-2'>
             <div className='relative mx-auto h-[400px] w-full sm:h-[500px] lg:h-[600px]'>
               {/* Imagen estática de la paraba */}
-              {/* <ParrotImageStatic /> */}
+              <ParrotImageStatic />
 
               {/* CÓDIGO 3D COMENTADO - Para uso futuro */}
 
-              <ParrotScene />
+              {/* <ParrotScene /> */}
             </div>
           </div>
         </div>
